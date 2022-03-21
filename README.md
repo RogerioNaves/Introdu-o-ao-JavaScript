@@ -1,1 +1,3 @@
-# Introdu-o-ao-JavaScript
+# Introdução ao JavaScript
+
+Professor: Rogério Naves 
